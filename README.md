@@ -9,6 +9,17 @@
   </a>
 </div>
 
+### My skils
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=Javascript&logoColor=yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=Typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-blue?logo=Css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-pink?logo=Sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Less-blue?logo=Less&logoColor=white" alt="Less" />
+</div>
+
 <!--
 **kukhars707/kukhars707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
