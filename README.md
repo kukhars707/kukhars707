@@ -49,6 +49,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="" alt="" width="30" height="30"/>&nbsp;
 </div>
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kukhars707&show_icons=true&theme=buefy&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukhars707&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 <!--
 **kukhars707/kukhars707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
