@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Less-blue?logo=Less&logoColor=white" alt="Less" />
 </div>
 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
 <!--
 **kukhars707/kukhars707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
