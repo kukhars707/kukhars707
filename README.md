@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <a link="https://www.linkedin.com/in/serhii-kukhar-bbab10125/" target="_blank">
+  <a href="https://www.linkedin.com/in/serhii-kukhar-bbab10125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
