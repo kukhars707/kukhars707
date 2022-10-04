@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/serhii-kukhar-bbab10125/" target="_blank">
+  <a href="https://www.linkedin.com/in/serhii-kukhar-bbab10125/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://twitter.com/kukhar707">
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
